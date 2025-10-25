@@ -10,7 +10,6 @@ It includes:
 - Hundreds of functional APIs representing real-world app interactions  
 - Task scenarios that require reasoning, planning, and iterative API use  
 - A safe Python sandbox where API calls are executed and observed step-by-step  
-<img width="289" height="478" alt="image" src="https://github.com/user-attachments/assets/4609d203-0b96-4c46-bdd6-05f508b6c17d" />
 
 **GEPA (Genetic-Pareto Prompt Optimization)** is a prompt evolution algorithm..  
 It improves model instructions by iteratively evaluating performance and rewriting the prompt based on multi-objective optimization.
