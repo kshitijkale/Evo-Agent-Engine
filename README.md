@@ -1,16 +1,5 @@
 # Evo-Agent-Engine
 Evo-Agent Engine applies GEPA to treat the App World agent's instructions as a digital genome. Success parameters are a fitness function, guiding genetic selection to breed superior agent versions. This results in an autonomously adapting and , achieving maximum performance through simulated evolution.
-Overview
-Sure — here’s the final, clean, professional **README.md** version formatted properly in Markdown:
-
----
-
-# AppWorld + GEPA Autonomous Agent
-
-This repository contains an autonomous agent that uses **DSPy** and **GEPA** to complete tasks in the **AppWorld** environment.  
-The agent autonomously generates and executes Python code to solve realistic multi-step digital tasks using simulated app APIs.
-
----
 
 ## Overview
 
@@ -22,8 +11,9 @@ It includes:
 - Task scenarios that require reasoning, planning, and iterative API use  
 - A safe Python sandbox where API calls are executed and observed step-by-step  
 
-**GEPA (Genetic-Pareto Prompt Optimization)** is a prompt evolution algorithm integrated with **DSPy**.  
-It improves model instructions by iteratively evaluating performance and rewriting the prompt based on multi-objective optimization — balancing task success rate, stability, and efficiency.
+**GEPA (Genetic-Pareto Prompt Optimization)** is a prompt evolution algorithm..  
+It improves model instructions by iteratively evaluating performance and rewriting the prompt based on multi-objective optimization.
+<img width="1132" height="667" alt="Screenshot from 2025-10-25 22-54-08" src="https://github.com/user-attachments/assets/8c8067ae-c7bf-4034-a40d-2434f33e0ae6" />
 
 Together, they enable structured experimentation with autonomous agents that can plan, act, and self-improve through real environment feedback.
 
@@ -35,7 +25,7 @@ Together, they enable structured experimentation with autonomous agents that can
 2. It generates Python code to call AppWorld APIs.  
 3. The environment executes the code and returns structured output.  
 4. The agent observes the result, updates its reasoning, and continues until completion.  
-5. During optimization, **GEPA** refines the agent’s instructions based on past task performance.
+5. During optimization, GEPA refines the agent’s instructions based on past task performance.
 
 ---
 
