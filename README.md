@@ -5,7 +5,6 @@ Sure — here’s the final, clean, professional **README.md** version formatted
 
 ---
 
-````markdown
 # AppWorld + GEPA Autonomous Agent
 
 This repository contains an autonomous agent that uses **DSPy** and **GEPA** to complete tasks in the **AppWorld** environment.  
